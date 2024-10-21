@@ -11,6 +11,10 @@ export default function Projects() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-medium tracking-tight">Projects</h1>
+      <p className="mb-5 text-slate-500">
+        Here is some stuff I worked on either in personal time or for work
+      </p>
+
       <div className="space-y-6">
         {projects.map((project, index) => (
           <a
