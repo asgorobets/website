@@ -25,7 +25,7 @@ export default function Page() {
           I'm a software engineer in webdev
         </p>
         <p>
-          I built websites for clients using NextJS, Vercel, Drupal, Contentful, PayloadCMS and other cool tech.
+          I built websites for clients using Next.js, Vercel, Drupal, Contentful, Payload CMS and other cool tech.
         </p>
         <p>
           You can find my public work on my{" "}
