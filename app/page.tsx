@@ -34,15 +34,9 @@ export default function Page() {
           </a>{" "}, but I'll occasionally write about my experiments on my <Link href='/blog'>blog</Link>
         </p>
         <p>
-
-        </p>
-        <p>
           This site is open-source and can be found here{" "}
           <a href={socialLinks.github + '/website'} target="_blank">here</a>
 
-        </p>
-        <p>
-          Thanks to <a href="https://imsirius.xyz/" target="_blank">Sirius</a> for an excellent <a href="https://github.com/1msirius/Nextfolio" target="_blank">portfolio starter</a>
         </p>
       </div>
     </section>

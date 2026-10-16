@@ -7,10 +7,24 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: "Acquia DAM Contentful App",
-    year: 2023,
+    title: "Migrate SDK",
+    year: 2026,
     description:
-      "Acquia DAM Contentful App that allows direct use of Acquia DAM assets in Contentful based on Contentful DAM Base",
-    url: "https://github.com/ffw-us/contentful-app-acquia-dam",
+      "TypeScript toolkit for moving data between APIs, databases, and files, with resumable runs, retries, and rollback. Built with Effect, with CLI and terminal UI support.",
+    url: "https://migrate-sdk.dev",
+  },
+  {
+    title: "Next Hydra",
+    year: 2025,
+    description:
+      "Composable commerce and CMS architecture built with Next.js and TypeScript, bringing together swappable providers for content, commerce, authentication, and shared platform services.",
+    url: "https://next-hydra.dev",
+  },
+  {
+    title: "Next CMS Starter Kit",
+    year: 2022,
+    description:
+      "Next.js and Contentful starter kit with type-safe GraphQL data fetching, React Server Components, live previews, and a shared component architecture.",
+    url: "https://next-cms.dev",
   },
 ];
