@@ -4,7 +4,7 @@ Alexei Gorobet's personal website, portfolio, and blog, built with Next.js, Reac
 
 ## Development
 
-Requires Node.js 20.9 or newer and pnpm.
+Requires Node.js 24.x and pnpm 10.34.7 (pinned in `package.json`).
 
 ```sh
 git clone git@github.com:asgorobets/website.git
